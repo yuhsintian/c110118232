@@ -34,7 +34,7 @@ class CTriangle extends CShape{
 ```
 ---
 #### 請寫出相對應的java code
-
+![hw8_code](hw8_code.jpg "hw8_code")
 ```
 import java.util.ArrayList;
 import java.util.List;
